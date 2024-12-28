@@ -1,7 +1,7 @@
 <div align = "center" >
   <img src = "https://github.com/luanaDeveloper7/luanaDeveloper7/blob/main/bannerGitHub.gif" alt = "banner">
 </div>
-<br/> <br/>
+<br/>
 
 
 - 🔭 I’m currently studying Information Systems at **[Inteli](https://www.inteli.edu.br/)**;
