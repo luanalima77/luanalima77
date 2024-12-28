@@ -1,5 +1,5 @@
 <div align = "center" >
-  <img src = "https://github.com/luanaDeveloper7/luanaDeveloper7/blob/main/bannerGitHub.gif" alt = "banner" style = "width: 90%">
+  <img src = "https://github.com/luanaDeveloper7/luanaDeveloper7/blob/main/bannerGitHub.gif" alt = "banner">
 </div>
 <br/> <br/>
 
