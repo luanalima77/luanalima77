@@ -10,7 +10,7 @@
 - 💬 Ask me about **software development, AI, agile methodologies and leadership. Don't be shy, I love to answer questions =)**
 - 📫 Where you can reach me: **luana.developer7@gmail.com**
 - 📄 Know more about me and my experiences in my **[Linkedin](https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/)**
-- ⚡ Fun fact: **I love football (I won two championships in a row 🥇) and playing guitar🎵**
+- ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇) and I also play guitar🎵**
 <br/> <br/>
 
 <h3 align="left">Contact me:</h3>
