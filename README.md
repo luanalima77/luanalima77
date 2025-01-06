@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luana de jesus lima" height="30" width="40" /></a>
 </p>
-<br/> <br/> 
+<br/> 
 
 <h3 align="left">Languages and tools I use:</h3>
 <hr>
