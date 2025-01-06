@@ -12,7 +12,7 @@
 - 📄 Know more about me and my experiences in my **[LinkedIn](https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/)**;
 - ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇) and I also play guitar🎵**;
 - ✨ Habilities: teamwork, scientific writing, good communication and software development;
-- 👩‍💻 Check out my buddy's GitHub profile:** https://github.com/julia-lika **
+- 👩‍💻 Check out my buddy's GitHub profile: **https://github.com/julia-lika**.
 <br/> <br/>
 
 <h3 align="left">Contact me:</h3>
