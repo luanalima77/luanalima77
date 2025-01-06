@@ -8,7 +8,7 @@
 - 💻 Systems development technician graduated at **[Etec de Taboão da Serra](https://etects.cps.sp.gov.br/)**;
 - 👯 I’m looking to collaborate on **AI, front-end and back-end projects**;
 - 💬 Ask me about **software development, AI, agile methodologies and leadership. Don't be shy, I love to answer questions =)**;
-- 📫 Where you can reach me: **luana.developer7@gmail.com**;
+- 📫 Where you can reach me: **luana.lima@sou.inteli.edu.br**;
 - 📄 Know more about me and my experiences in my **[LinkedIn](https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/)**;
 - ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇) and I also play guitar🎵**;
 - ✨ Habilities: teamwork, scientific writing, good communication and software development.
