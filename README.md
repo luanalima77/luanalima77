@@ -4,8 +4,8 @@
 <br/>
 
 
-- 🔭 I’m currently studying Information Systems at **[Inteli](https://www.inteli.edu.br/)**;
-- 💻 Systems development technician graduated at **[Etec de Taboão da Serra](https://etects.cps.sp.gov.br/)**;
+- 🔭 I am currently studying Information Systems at **[Inteli](https://www.inteli.edu.br/)**;
+- 💻 I am Systems Development technician graduated at **[Etec de Taboão da Serra](https://etects.cps.sp.gov.br/)**;
 - 👯 I’m looking to collaborate on **AI, front-end and back-end projects**;
 - 💬 Ask me about **software development, AI, agile methodologies and leadership. Don't be shy, I love to answer questions =)**;
 - 📫 Where you can reach me: **luana.lima@sou.inteli.edu.br**;
