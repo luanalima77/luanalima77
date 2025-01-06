@@ -26,7 +26,8 @@
 <br/>
 
 <h3 align="left">Check out my buddy's GitHub profile!</h3>
-- 👩‍💻 https://github.com/julia-lika.
+My buddy is Júlia Lika. She is helping me a lot by answering my questions. Her GitHub profile is https://github.com/julia-lika.
+<br/> <br/>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align = "center">
