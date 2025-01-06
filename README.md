@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇) and I also play guitar🎵**;
 - ✨ Habilities: teamwork, scientific writing, good communication and software development;
 
-<br/> <br/>
+<br/> 
 
 <h3 align="left">Contact me:</h3>
 <hr>
