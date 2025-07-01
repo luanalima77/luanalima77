@@ -1,5 +1,6 @@
 <div align = "center" >
-  <img src = "https://github.com/luanaDeveloper7/luanaDeveloper7/blob/main/bannerGitHub.gif" alt = "banner">
+
+  ![Banner - GitHub](https://github.com/user-attachments/assets/7e17f30e-eb73-4f76-8370-1361fe726fd1)
 </div>
 <br/>
 
