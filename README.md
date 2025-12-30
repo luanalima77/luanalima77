@@ -124,21 +124,21 @@ If you click on the images, you can access these projects.
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> web application
+      <strong>Project:</strong> web <br>application
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/InteliProjects/2025-2A-T15-IN03-G01" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> predictive model
+      <strong>Project:</strong> predictive <br>model
     </td>
     <td style="text-align: center;">
       <a href="#" target="_blank">
         <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> IoT model
+      <strong>Project:</strong> IoT <br>model
     </td>
   </tr>
 </table>
