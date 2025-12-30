@@ -1,6 +1,5 @@
 <div align = "center" >
 
-  ![Banner - GitHub](https://github.com/user-attachments/assets/7e17f30e-eb73-4f76-8370-1361fe726fd1)
 </div>
 <br/>
 
@@ -18,7 +17,14 @@
 
 <h2>Languages and tools I use</h2>
 
-<table>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7e17f30e-eb73-4f76-8370-1361fe726fd1" alt="Banner - GitHub" width="70%"/>
+</div>
+
+<br>
+
+
+<table align = "center">
   <tr>
     <td><strong>Programming languages</strong></td>
     <td>
@@ -144,15 +150,23 @@ If you click on the images, you can access these projects.
 </table>
 
 
-
-
-
-
 <h2 align="left">GitHub Stats:</h2>
+
+
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanalima77&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanalima77&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luanalima77&theme=radical" />
+
+</div>
+
+
+<!--
 <div align = "center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanalima77&show_icons=true&locale=en&layout=compact" alt="luanalima77" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanalima77&show_icons=true&locale=en" alt="luanalima77" /></p>
-</div>
+</div>-->
 
 
 
