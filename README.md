@@ -1,5 +1,5 @@
 <div align = "center" >
-
+  <img src = "assets/initialBanner.gif">
 </div>
 <br/>
 
