@@ -8,7 +8,6 @@
 - 💻 I am Systems Development technician graduated at **[Etec de Taboão da Serra](https://etects.cps.sp.gov.br/)**;
 - 👯 I’m looking to collaborate on **data, Machine Learning, front-end and back-end projects**;
 - 💬 Ask me about **software development, AI, data, agile methodologies and leadership. Don't be shy, I love to answer questions =)**;
-- 📫 Where you can reach me: **luana.developer7@gmail.com**;
 - 📄 Know more about me and my experiences in my **[LinkedIn](https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/)**;
 - ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇), [I like drawing](https://drive.google.com/drive/folders/1d_E11xHGUirJTigjuFDE2u-MQFbM1NkX?usp=sharing) and I also play guitar🎵**;
 - ✨ Habilities: teamwork, scientific writing, good communication and software development.
@@ -148,11 +147,16 @@ If you click on the images, you can access these projects.
     </td>
   </tr>
 </table>
+<br>
 
+## Contact me
+<a href="https://www.linkedin.com/in/luana-de-jesus-lima/" target="_blank">
+  <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width = 15%/>
+</a>
+
+<br>
 
 <h2 align="left">GitHub Stats:</h2>
-
-
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanalima77&theme=radical" />
