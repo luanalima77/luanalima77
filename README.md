@@ -110,38 +110,41 @@
 These are some of the companies and organizations I’ve created projects for as part of my portfolio.  
 If you click on the images, you can access these projects.
 
-<p align="center">
-  <a href="https://github.com/InteliProjects/2025-1A-T15-IN01-G03" target="_blank">
-    <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
-  </a>
-  <br>
-  <strong>Project:</strong> game
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; text-align: center;">
 
-<p align="center">
-  <a href="https://github.com/InteliProjects/2025-1B-T15-IN02-G02" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
-  </a>
-  <br>
-  <strong>Project:</strong> web application
-</p>
+  <div style="text-align: center;">
+    <a href="https://github.com/InteliProjects/2025-1A-T15-IN01-G03" target="_blank">
+      <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
+    </a>
+    <br>
+    <strong>Project:</strong> game
+  </div>
 
-<p align="center">
-  <a href="https://github.com/InteliProjects/2025-2A-T15-IN03-G01" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
-  </a>
-  <br>
-  <strong>Project:</strong> predictive model
-</p>
+  <div style="text-align: center;">
+    <a href="https://github.com/InteliProjects/2025-1B-T15-IN02-G02" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
+    </a>
+    <br>
+    <strong>Project:</strong> web application
+  </div>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
-  </a>
-  <br>
-  <strong>Project:</strong> IoT model
-</p>
+  <div style="text-align: center;">
+    <a href="https://github.com/InteliProjects/2025-2A-T15-IN03-G01" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
+    </a>
+    <br>
+    <strong>Project:</strong> predictive model
+  </div>
 
+  <div style="text-align: center;">
+    <a href="" target="_blank">
+      <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
+    </a>
+    <br>
+    <strong>Project:</strong> IoT model
+  </div>
+
+</div>
 
 
 
