@@ -7,12 +7,12 @@
 # 🌌 Welcome to my IT Universe
 - 🔭 I am currently studying Information Systems at **[Inteli](https://www.inteli.edu.br/)**;
 - 💻 I am Systems Development technician graduated at **[Etec de Taboão da Serra](https://etects.cps.sp.gov.br/)**;
-- 👯 I’m looking to collaborate on **AI, front-end and back-end projects**;
-- 💬 Ask me about **software development, AI, agile methodologies and leadership. Don't be shy, I love to answer questions =)**;
-- 📫 Where you can reach me: **luana.lima@sou.inteli.edu.br**;
+- 👯 I’m looking to collaborate on **data, Machine Learning, front-end and back-end projects**;
+- 💬 Ask me about **software development, AI, data, agile methodologies and leadership. Don't be shy, I love to answer questions =)**;
+- 📫 Where you can reach me: **luana.developer7@gmail.com**;
 - 📄 Know more about me and my experiences in my **[LinkedIn](https://www.linkedin.com/in/luana-de-jesus-lima-8b17a9266/)**;
 - ⚡ Fun fact: **I love football (I won two championships in a row at Etec🥇), [I like drawing](https://drive.google.com/drive/folders/1d_E11xHGUirJTigjuFDE2u-MQFbM1NkX?usp=sharing) and I also play guitar🎵**;
-- ✨ Habilities: teamwork, scientific writing, good communication and software development;
+- ✨ Habilities: teamwork, scientific writing, good communication and software development.
 
 <br/> 
 
@@ -103,6 +103,45 @@
     </td>
   </tr>
 </table>
+
+<br> <br>
+
+## Companies I’ve developed projects for
+These are some of the companies and organizations I’ve created projects for as part of my portfolio. If you click on the images, you can access these projects.
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; text-align: center;">
+  <figure style="margin: 0;">
+    <a href="https://github.com/InteliProjects/2025-1A-T15-IN01-G03" target="_blank">
+      <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
+    </a>
+    <figcaption>Project: game</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <a href="https://github.com/InteliProjects/2025-1B-T15-IN02-G02" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
+    </a>
+    <figcaption>Project: web application</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <a href="https://github.com/InteliProjects/2025-2A-T15-IN03-G01" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
+    </a>
+    <figcaption>Project: predictive model</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <a href="" target="_blank">
+      <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
+    </a>
+    <figcaption>Project: IoT model</figcaption>
+  </figure>
+</div>
+
+
+
+
 
 
 
