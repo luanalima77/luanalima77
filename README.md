@@ -110,7 +110,7 @@
 These are some of the companies and organizations I’ve created projects for as part of my portfolio.  
 If you click on the images, you can access these projects.
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px; text-align: center;">
 
   <div style="text-align: center;">
     <a href="https://github.com/InteliProjects/2025-1A-T15-IN01-G03" target="_blank">
