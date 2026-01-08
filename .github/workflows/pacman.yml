@@ -16,6 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   
 
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
@@ -30,6 +32,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          git fetch origin main
+          git rebase origin/main
+
           git add pacman-contribution-graph.svg
           git commit -m "update pacman contribution graph" || exit 0
-          git push
+          git push origin main
