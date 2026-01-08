@@ -16,18 +16,26 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
         with:
-          github_user_name: luanalima77
-          outputs: |
-            pacman.svg
-            pacman-dark.svg?palette=github-dark
+          fetch-depth: 0 
 
-      - name: commit pacman svgs
+      - name: generate pacman svgs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: move svgs to root
+        run: |
+          mv dist/pacman.svg pacman.svg
+          mv dist/pacman-dark.svg pacman-dark.svg
+
+      - name: commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add pacman*.svg
+
+          git add pacman.svg pacman-dark.svg
           git commit -m "update pacman contribution graph" || exit 0
-          git push
+
+          git pull --rebase origin main
+          git push origin main
