@@ -166,15 +166,13 @@ If you click on the images, you can access these projects.
 </div>
 <br><br>
 
-## My contributions (by month)
+## My contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./pacman.svg">
+  <img src="./pacman.svg" alt="pacman contribution graph">
 </picture>
+
 
 <!--
 <div align = "center">
