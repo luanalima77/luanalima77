@@ -10,26 +10,27 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
-      - name: generate pacman svgs
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: move svgs to root
+      - name: Move SVGs to root
         run: |
-          mv dist/pacman.svg pacman.svg
-          mv dist/pacman-dark.svg pacman-dark.svg
+          mv dist/pacman-contribution-graph.svg pacman.svg
+          mv dist/pacman-contribution-graph-dark.svg pacman-dark.svg
 
-      - name: commit and push
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
