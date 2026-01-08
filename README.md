@@ -164,13 +164,17 @@ If you click on the images, you can access these projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luanalima77&theme=radical" />
 
 </div>
+<br><br>
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman-contribution-graph.svg"
-    alt="pacman contribution graph"
-  />
-</div>
+## My contributions (by month)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/luanalima77/luanalima77/main/pacman.svg">
+</picture>
 
 <!--
 <div align = "center">
